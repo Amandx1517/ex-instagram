@@ -16,12 +16,18 @@
 }#my{
     display: flex;
 }h1{
-    color: rgb(0, 0, 0);
+    color: rgb(247, 242, 242);
 }.amm{
     width: 80px;
     border-radius: 70px;
     height: 80px;
-    
+   
 }#rvd{
+    
+    display: flex; align-items: center;
+    justify-content: center;
     margin: auto;
+
+}body{
+    background-color: black;
 }
