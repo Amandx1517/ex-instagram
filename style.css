@@ -2,4 +2,26 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}header{
+ display: flex; 
+ flex-direction: column;
+ 
+}#bb{
+
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(213, 213, 231);  
+    display: flex; align-items: center;justify-content: center;
+}#my{
+    display: flex;
+}h1{
+    color: rgb(0, 0, 0);
+}.amm{
+    width: 80px;
+    border-radius: 70px;
+    height: 80px;
+    
+}#rvd{
+    margin: auto;
 }
