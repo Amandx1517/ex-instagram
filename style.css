@@ -15,19 +15,39 @@
     display: flex; align-items: center;justify-content: center;
 }#my{
     display: flex;
+    color: aliceblue;
 }h1{
     color: rgb(247, 242, 242);
 }.amm{
     width: 80px;
     border-radius: 70px;
-    height: 80px;
+    height: 80px; 
+    
    
 }#rvd{
     
-    display: flex; align-items: center;
+    display:flex;
     justify-content: center;
-    margin: auto;
+    margin: 50px;
+    
+
 
 }body{
     background-color: black;
+    display: flex;
+    
+
+}#mam{
+    align-items: center;
+    height: 350px;
+    width: 350px;
+}
+  
+
+}#amor{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-direction: column;
+
 }
